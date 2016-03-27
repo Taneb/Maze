@@ -1,0 +1,7 @@
+[package]
+name = "maze"
+version = "0.0.0"
+authors = ["Nathan van Doorn nvd1234@gmail.com"]
+
+[dependencies]
+rand = "*"
